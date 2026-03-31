@@ -128,16 +128,6 @@ Covers complete methodology, all figures and data tables, section-by-section ana
 | **MITRE ATT&CK** | Analytical framework — Reconnaissance tactic (TA0043) |
 
 ---
-
-## Related Work
-
-This assessment is part of a broader security research portfolio:
-
-- **[OCS Cybersecurity Strategy](https://github.com/alisterrodrigues/ocs-cybersecurity-strategy)** — 105-page enterprise security program covering governance, IAM, ZTA, PKI, DevSecOps, and cloud security
-- **[Cybersecurity Analysis Series](https://github.com/alisterrodrigues/cybersecurity-analysis-series)** — Focused analyses in authentication protocols, IAM workflows, PKI, and threat modeling
-- **[IP Fragmentation Attack Lab](https://github.com/alisterrodrigues/ip-fragmentation-attack-lab)** — Reproducible Docker lab demonstrating overlapping fragment bypass of stateless iptables rules
-- **[Luna Bags Network Defense](https://github.com/alisterrodrigues/luna-bags-network-defense)** — Six-task defense-in-depth implementation: Apache hardening, SSL/TLS, iptables, WireGuard VPN, Fail2Ban, ModSecurity WAF
-
 ---
 
 *Developed by Alister A. Rodrigues. All research conducted using publicly available information through passive means only. No Cloudflare systems were accessed, scanned, or interacted with during this assessment. This work is intended for defensive security research and education.*
